@@ -25,9 +25,13 @@ public class DataService {
         list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
         list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
         list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
+        list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
+        list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
+        list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
 
         return list;
     }
+
     public ArrayList<Station> getResentStations() {
 
 
@@ -35,10 +39,14 @@ public class DataService {
 
         list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
         list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
+        list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
+        list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
+        list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
         list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
 
         return list;
     }
+
     public ArrayList<Station> getPartyStations() {
 
 
@@ -46,6 +54,9 @@ public class DataService {
 
         list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
         list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
+        list.add(new Station("Flights Plan(Tunes for Travel)", "flightplanmusic"));
+        list.add(new Station("Two wheeling (Biking playlist)", "bicyclemusic"));
+        list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
         list.add(new Station("Kids Jams (music for children's))", "kidsmusic"));
 
         return list;
