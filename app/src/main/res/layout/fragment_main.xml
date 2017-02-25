@@ -29,7 +29,8 @@
                 android:layout_marginLeft="16dp"
                 android:text="For one...two... tree "
                 android:textColor="#a4a4a4"
-                android:textSize="18dp" />
+                android:textSize="18dp"
+                android:paddingBottom="10dp"/>
 
             <FrameLayout
                 android:id="@+id/container_top_row"
@@ -51,7 +52,8 @@
                 android:layout_marginLeft="16dp"
                 android:text="For one...two... tree "
                 android:textColor="#a4a4a4"
-                android:textSize="18dp" />
+                android:textSize="18dp"
+                android:paddingBottom="10dp"/>
 
             <FrameLayout
                 android:id="@+id/container_middle_row"
@@ -73,7 +75,8 @@
                 android:layout_marginLeft="16dp"
                 android:text="For one...two... tree "
                 android:textColor="#a4a4a4"
-                android:textSize="18dp" />
+                android:textSize="18dp"
+                android:paddingBottom="10dp"/>
 
             <FrameLayout
                 android:id="@+id/container_bottom_row"
